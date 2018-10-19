@@ -1,0 +1,23 @@
+body {
+	background-color: #333;
+}
+h1, h2 {
+	color: #080;
+	text-align: center;
+}
+form {
+	color: #0B0;
+}
+#message {
+	color: #0B0;
+	font-size: 1.3em;
+	text-align: center;
+}
+input {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.VOIR {
+	border: 5px solid #0FF;
+}
